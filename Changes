@@ -1,4 +1,4 @@
-0.002     2017-10-11 22:33:00-08:00 America/Los_Angeles
+0.003     2017-10-11 22:33:00-08:00 America/Los_Angeles
           - fix error handling at the user agent level (thanks Colin Magee)
           - fix spelling errors
 

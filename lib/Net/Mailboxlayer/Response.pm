@@ -3,7 +3,7 @@ package Net::Mailboxlayer::Response;
 use strict;
 use warnings;
 
-$Net::Mailboxlayer::Response::VERSION = '0.001';
+$Net::Mailboxlayer::Response::VERSION = '0.003';
 
 sub new
 {

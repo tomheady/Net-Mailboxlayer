@@ -3,7 +3,7 @@ package Net::Mailboxlayer;
 use strict;
 use warnings;
 
-$Net::Mailboxlayer::VERSION = '0.001';
+$Net::Mailboxlayer::VERSION = '0.003';
 
 use URI::URL;
 use LWP::UserAgent;
